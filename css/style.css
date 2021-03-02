@@ -1,18 +1,14 @@
-/* @import url(https://fonts.googleapis.com/css?family=Poiret+One); */
 html, body, #container {
     height: 100%;
     width: 100%;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 #container {
-    padding-top: 55px;
+    padding-top: 56px;
 }
 #map {
     width: auto;
     height: 100%;
-}
-.navbar {
-    border-color: #bbb;
 }
 .navbar-brand {
     font-family: 'Bahnschrift';
